@@ -1,0 +1,4 @@
+# This project intentionally uses only the Python standard library
+# (urllib, csv, json, gzip, argparse) so it has no third-party
+# dependencies or supply-chain surface. Nothing to install here beyond
+# Python 3.9+.

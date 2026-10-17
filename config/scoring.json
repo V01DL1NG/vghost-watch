@@ -1,0 +1,5 @@
+{
+  "hint_ports": {"16509": 3, "16514": 3, "8006": 2, "5900": 1, "2179": 1, "9440": 1},
+  "hint_words": ["libvirt", "proxmox", "qemu", "kvm", "vhost"],
+  "word_weight": 2
+}
